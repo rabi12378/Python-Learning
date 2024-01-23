@@ -38,3 +38,18 @@ print(data[-4:])  # ["g", "h", "i", "j"]
 print(data[-8:-2])  # ["c", "d", "e", "f", "g", "h"]
 print(data[-3:-7])  # []
 print(data[2:9:2])  # ["b", "d", "f", "h"]
+
+
+
+
+print(vowels[3:9])#d to i
+print(vowels[8:2])#i to c empty list
+print(vowels[5:])#f to j
+print(vowels[:4])#a to d
+print(vowels[-9:-3])#b to g
+print(vowels[-8:8])#c to h
+print(vowels[9:-7])#emp
+print(vowels[-4:-9])#emp
+
+
+
