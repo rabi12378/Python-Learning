@@ -18,3 +18,11 @@ Repository= It is nothing but a git project folder
 
 3. git commit -m ""
 - commit all the codes
+
+4. git remote and origin <ssh-link>
+
+5. git remote -version
+- list aall the remote naames
+
+6. git push -u origin (branch name)
+- push to github
