@@ -4,3 +4,6 @@ print( a +b)
 # what re trhe kainadnwifewjfjp9weufpuewporo
 c=("python ")
 d="priyanka"
+e="okrabi me "
+f="rabi and the rabi"
+g="hey oi"
