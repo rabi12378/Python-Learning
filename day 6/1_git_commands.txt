@@ -1,0 +1,8 @@
+1. git status 
+- provides the current status of the repo
+2. git clone 
+- downlaods the repo to localdevice
+3. git branch -D <branch_name>
+- delete the branch
+4. git reset
+- undo the commit 
