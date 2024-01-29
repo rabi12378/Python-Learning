@@ -10,6 +10,12 @@ Repository= It is nothing but a git project folder
 -Another is remore repository(Repo)
 
 #git commands
+sewt username and email
+1. git config --global user.name "<username>"
+2. git config --global user.email "<email>"
+
+
+
 1. Git init
 -initialize a repo in Local
 
