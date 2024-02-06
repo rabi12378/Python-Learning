@@ -1,0 +1,2 @@
+# Create a class Department with parameters name and number_of_students. Create a method total students, which takes department object as a
+#  parameter and return the total number of students from all departments.
