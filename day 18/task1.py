@@ -1,25 +1,25 @@
-# # Take two numbers as input and add those numbers. Handle the possible exceptions.
-# try:
-#     a= int (input ("enter the  number : "))
-#     b= int (input ("enter the  second number : "))
-# except (ValueError,TypeError,SyntaxError):
-#     print("there has been some error")
-# else:
-#     print(a+b)
+# Take two numbers as input and add those numbers. Handle the possible exceptions.
+try:
+    a= int (input ("enter the  number : "))
+    b= int (input ("enter the  second number : "))
+except (ValueError,TypeError,SyntaxError):
+    print("there has been some error")
+else:
+    print(a+b)
 
 
 
-# # Take two numbers input and divide a number by another number. Handle the possible exceptions.
-# try:
-#     a= int (input ("enter the  number : "))
-#     b= int    (input ("enter the  second number : "))
-#     c=(a/b)
-# except (ValueError,TypeError,SyntaxError,ZeroDivisionError):
-#     print("there has been some error")
-# else:
-#     print(c)
-# finally:
-#     print("the code is completed")
+# Take two numbers input and divide a number by another number. Handle the possible exceptions.
+try:
+    a= int (input ("enter the  number : "))
+    b= int    (input ("enter the  second number : "))
+    c=(a/b)
+except (ValueError,TypeError,SyntaxError,ZeroDivisionError):
+    print("there has been some error")
+else:
+    print(c)
+finally:
+    print("the code is completed")
 
 
 
