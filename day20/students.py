@@ -1,7 +1,7 @@
 # For reading binary 
 
 import pickle 
-with open ("day20/result.dat","rb") as fp:
-    students = pickle.load(fp)
+with open ("day20/result.dat","wb") as fp:
+    students = pickle.dump(fp)
 
 print(students)
